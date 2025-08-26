@@ -4,6 +4,9 @@
 
 Tenho 19 anos e sou do Rio de Janeiro. Atualmente estou cursando Ciência da Computação na Unicarioca. 💻✨ Tenho grande paixão por tecnologia, sempre em busca de aprender, evoluir e explorar novas possibilidades dentro da área. 🚀
 ---
+### 📫 Como me encontrar
+- Email: nicollerochaaraujo@mail.com
+- LinkedIn: https://www.linkedin.com/in/nicolle-rocha-02a583350/ 
 
 ### 🤖 Linguagens e Tecnologias
 

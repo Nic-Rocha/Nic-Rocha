@@ -52,4 +52,4 @@ Tenho 19 anos e sou do Rio de Janeiro. Atualmente estou cursando Ciência da Com
 <br/>
 <br/>
 
-- 🌱 Estou aprimorando e aprendendo funcionalidades do React e JS neste momento!
+🌱 Estou aprimorando e aprendendo funcionalidades do React e JS neste momento!

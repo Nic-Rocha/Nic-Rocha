@@ -1,4 +1,4 @@
-## Olá! Eu sou a Nicolle Rocha 😁
+## Olá! Me chamo Nicolle Rocha 😁
 
 **`Desenvolvedora Front-end`**
 

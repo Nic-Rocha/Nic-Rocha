@@ -1,7 +1,7 @@
 # 👩‍💻 Nicolle Rocha
 ## Desenvolvedora Front-end | Designer | Estudante de Ciência da Computação
-Olá, tenho 19 anos e sou do Rio de Janeiro 🇧🇷. Atualmente estou no 3º período de Ciência da Computação na Unicarioca e atuo profissionalmente como designer. Minha paixão por tecnologia me impulsiona a aprender constantemente, explorar novas ferramentas e evoluir como desenvolvedora. 🚀
-Estou focada em me especializar no desenvolvimento front-end, com ênfase em React e Material UI, buscando criar interfaces modernas, acessíveis e com ótima experiência para o usuário.
+Olá, tenho 20 anos e sou do Rio de Janeiro 🇧🇷. Atualmente estou no 4º período de Ciência da Computação na Unicarioca e atuo profissionalmente como designer o que me deu uma boa noção de organização, lógica e experiência do usuário. Hoje meu foco é Ciência de Dados, gosto de transformar dados brutos em informação útil e de automatizar processos que economizam tempo. Estou sempre estudando atualmente aprofundando em Data Science através de um curso complementar.🚀
+
 <br>
 
 <img 
@@ -49,19 +49,30 @@ Estou focada em me especializar no desenvolvimento front-end, com ênfase em Rea
 
 # 🛠️ Tecnologias e Ferramentas
 Atualmente trabalho e estudo com:
+-Python (Pandas)
+-SQL
+-Excel (tabelas dinâmicas, fórmulas avançadas)
+-Power BI
 - HTML
 - CSS
 - JavaScript
 - Git
 - React (em aprendizado)
 - Material UI (em aprendizado)
+-ETL (extração, transformação e carga de dados) (em aprendizado)
+-APIs (em aprendizado)
 
 # 🌱 Em constante evolução
-Neste momento, estou aprofundando meus conhecimentos em:
-- Componentização e hooks no React
-- Boas práticas de JavaScript moderno (ES6+)
-- Design responsivo e acessibilidade
-- Integração entre design e desenvolvimento
+Atualmente estou aprofundando meus conhecimentos em:
+-Análise exploratória de dados com Python
+-Modelagem e consultas SQL
+-Dashboards e storytelling com dados (Power BI)
+-Automação de processos com Python
+-Conceitos de ETL e integração com nuvem (BigQuery)
+
+# 📂 Projetos em destaque
+[Nome do projeto] — breve descrição do problema resolvido e tecnologias usadas. (ainda colocar)
+[Nome do projeto] — breve descrição do problema resolvido e tecnologias usadas. (ainda colocar)
 
 # 📫 Contato
 ✉️ Email: nicollerochaaraujo@mail.com <br>

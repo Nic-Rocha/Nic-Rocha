@@ -1,5 +1,5 @@
 # 👩‍💻 Nicolle Rocha
-## Desenvolvedora Front-end | Designer | Estudante de Ciência da Computação
+##  Designer | Foco em Análise de Dados| Estudante de Ciência da Computação
 Olá, tenho 20 anos e sou do Rio de Janeiro 🇧🇷. Atualmente estou no 4º período de Ciência da Computação na Unicarioca e atuo profissionalmente como designer o que me deu uma boa noção de organização, lógica e experiência do usuário. Hoje meu foco é Ciência de Dados, gosto de transformar dados brutos em informação útil e de automatizar processos que economizam tempo. Estou sempre estudando atualmente aprofundando em Data Science através de um curso complementar.🚀
 
 <br>

@@ -4,6 +4,7 @@ Olá, tenho 20 anos e sou do Rio de Janeiro 🇧🇷. Atualmente estou no 4º pe
 
 <br>
 
+
 <img 
     align="left" 
     alt="HTML"
@@ -12,6 +13,7 @@ Olá, tenho 20 anos e sou do Rio de Janeiro 🇧🇷. Atualmente estou no 4º pe
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -20,6 +22,7 @@ Olá, tenho 20 anos e sou do Rio de Janeiro 🇧🇷. Atualmente estou no 4º pe
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -28,6 +31,7 @@ Olá, tenho 20 anos e sou do Rio de Janeiro 🇧🇷. Atualmente estou no 4º pe
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="React"
@@ -54,11 +58,12 @@ Olá, tenho 20 anos e sou do Rio de Janeiro 🇧🇷. Atualmente estou no 4º pe
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <br>
 
 # 🛠️ Tecnologias e Ferramentas
 Atualmente trabalho e estudo com:
--Python (Pandas)
+- Python (Pandas)
 -SQL
 -Excel (tabelas dinâmicas, fórmulas avançadas)
 -Power BI
@@ -80,8 +85,8 @@ Atualmente estou aprofundando meus conhecimentos em:
 -Conceitos de ETL e integração com nuvem (BigQuery)
 
 # 📂 Projetos em destaque
-[Nome do projeto] — breve descrição do problema resolvido e tecnologias usadas. (ainda colocar)
-[Nome do projeto] — breve descrição do problema resolvido e tecnologias usadas. (ainda colocar)
+- [Nome do projeto] — breve descrição do problema resolvido e tecnologias usadas. (ainda colocar)
+- [Nome do projeto] — breve descrição do problema resolvido e tecnologias usadas. (ainda colocar)
 
 # 📫 Contato
 ✉️ Email: nicollerochaaraujo@mail.com <br>

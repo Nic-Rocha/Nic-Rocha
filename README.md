@@ -85,7 +85,7 @@ Atualmente estou aprofundando meus conhecimentos em:
 -Conceitos de ETL e integração com nuvem (BigQuery)
 
 # 📂 Projetos em destaque
-- [Nome do projeto] — breve descrição do problema resolvido e tecnologias usadas. (ainda colocar)
+- [analisar-gastos-pandas] — O projeto consiste em uma leitura de despesas de um arquivo csv do excel pelo pandas. Para que você possa ler, organizar e analisar de forma rápida e eficaz.
 - [Nome do projeto] — breve descrição do problema resolvido e tecnologias usadas. (ainda colocar)
 
 # 📫 Contato

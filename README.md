@@ -86,8 +86,7 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 # 📂 Projetos em destaque
 - [analisar-gastos-pandas] — O projeto consiste em uma leitura de despesas de um arquivo csv do excel pelo pandas. Para que você possa ler, organizar e analisar de forma rápida e eficaz.
-- [Nome do projeto] — breve descrição do problema resolvido e tecnologias usadas. (ainda colocar)
-
+- [APS_ListaDeTarefas] — Uma aplicação Fullstack de Lista de Tarefas (To-Do List) desenvolvida como parte da Atividade Prática Supervisionada (APS) da matéria de Programação Web Front-End (IHC).
 # 📫 Contato
 ✉️ Email: nicollerochaaraujo@mail.com <br>
 💼 LinkedIn: linkedin.com/in/nicolle-rocha-02a583350
